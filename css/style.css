@@ -1,0 +1,70 @@
+body {
+	background: linear-gradient(white, lightpink, pink);
+}
+
+h1{
+	font-size: 40px ;
+	color: lightpink;
+	margin-bottom: 30px ;
+	margin-top: 30px;
+	text-align: center;
+	font-family: mandhor;
+} 
+
+.img_kedge {
+    display: flex;
+	justify-content: center;
+	padding: 50px
+}
+
+.logo {
+	width: 150px;
+}
+
+h2 {
+	font-size: 40px;
+	margin-bottom: 20px ;
+	padding: 10px;
+	margin-top: 30px;
+	text-align: center;
+	font-family: bubble shine;
+}
+
+img {
+	width: 300px;
+}
+
+li {
+	color: white;
+	font-family: castle-rock;
+	padding-bottom: 10px;
+}
+
+.img_moi {
+	display:flex; 
+	justify-content: center;
+}
+
+.coordonnées {
+	color: darkkhaki;
+}
+
+.réseaux {
+	color: darkkhaki;
+}
+
+.compétences {
+	color: darkkhaki;
+}
+
+.parcours_scolaire {
+	color: darkkhaki;
+}
+
+.associations {
+	color: darkkhaki;
+}
+
+.qualités {
+	color: darkkhaki;
+}
